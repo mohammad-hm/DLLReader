@@ -3,10 +3,7 @@ How to use dotnet to read value from dll :
 
 consider we have a dll file , and we access the code of creating that dll , something like here :
 
-// Ignore Spelling: Vishkav
-
 namespace produce.dll;
-
 
 public class ProduceDll
 {
